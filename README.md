@@ -1,5 +1,4 @@
-# crop-modelling-portfolio
-Independent PhD-level portfolio of crop modelling projects simulating multi-stress responses, disease risk, and yield interactions using R.
+
 # Crop Modelling Portfolio
 
 **Tagline:** Simulating crop responses to multi-stress environments using R — independent research portfolio for PhD applications.
